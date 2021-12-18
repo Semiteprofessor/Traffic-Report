@@ -1,0 +1,12 @@
+{
+  "traffic": [
+    {
+      "maryland": "no traffic report",
+      "id": 1
+    },
+    {
+      "maryland": "there is a new traffic report",
+      "id": 2
+    }
+  ]
+}
